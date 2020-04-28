@@ -1,13 +1,22 @@
-# Scrapper
+# Automating LinkedIn
 
-***The idea of the project is to automate sending of messages to desired people of an organisation.It will automatically send connection request via message to employees of that organisation.***
+***The idea of the project is to automate the process of searching for jobs, people of an organisation etc., sending connection requests with messages, automating applying for jobs using easy apply feature of LinkedIn.***
+
+## Upcoming updates:-
+
+**1**)Easy apply automatically for jobs.
 
 ## Instructions:-
+**1**)Install virtualenvironment using **$ sudo apt install virtualenv**
 
-**1**)Install python, selenium, chromedriver and code-editor like sublime on your laptop.
+**2**)Then use command **$ source env/bin/activate**
 
-**2**)Input your username , password, name of organisation to be searched and path of chromedriver in the python script.
+**3**)Input your username , password, name of organisation to be searched and path of chromedriver in the python script.
 
-**3**)Run the script using command Ctrl+B.
+**4**)Run the script using command **$ python3 {name_of_file}**.
 
 Working on user interface.
+
+## Problems that may occur:-
+
+**1**)Due to slow internet script may not run properly. **Make sure you have a stable and fast internet** 
