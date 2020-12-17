@@ -64,8 +64,8 @@ class LinkedinBot:
 
 if __name__ == '__main__':
 
-    username = 'pallavagarwal1997.pa75@gmail.com'
-    password = 'linkedin95'
+    username = ''
+    password = ''
     search_text = 'airbnb'
 
     bot = LinkedinBot(username, password)
